@@ -1,6 +1,6 @@
 # 📊 Data Analytics Internship Portfolio
 
-## 👩‍💻 Girija Naguru
+## 👩‍💻 Naguru Girija Rani
 
 Welcome to my Data Analytics Internship Portfolio. This repository showcases the projects, skills, and practical experience I gained during my Data Analytics Internship journey. The portfolio demonstrates my ability to collect, clean, analyze, visualize, and communicate data-driven insights using industry-standard tools and technologies.
 
