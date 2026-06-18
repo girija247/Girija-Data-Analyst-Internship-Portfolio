@@ -236,7 +236,7 @@ https://github.com/girija247
 
 ### LinkedIn
 
-(Add Your LinkedIn Profile Link Here)
+https://www.linkedin.com/in/girija-rani-naguru
 
 ---
 
